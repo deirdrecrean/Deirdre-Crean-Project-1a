@@ -1,10 +1,42 @@
 p {
+   font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif; 
+}
+h2{
     
+    font-family: 'Raleway', sans-serif; 
+    margin-top: 30px;
+}
+
+.song{
+color:darkmagenta;
+}
+
+.lyrics{
     
+    text-align: center;
+}
+
+#sitetitle{
+    
+    background-color: coral;
+}
+
+h1::before{
+    
+    content:"-";
+}
+h1::after{
+    content:"-";
     
 }
 
-#sitetitle {
-    
+iframe{
     
 }
+
+
+
